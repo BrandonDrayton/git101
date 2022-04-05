@@ -2,11 +2,12 @@
 ## Intro
 
 This is the test repo for git practice.
-This is another sentence.
+- This is another sentence but listed.
 
 - Hello
-  - This is a list
-- here is a point
+  - A list this is.
+- Here is a point
+- This another point
 
 Initializing Git
 
